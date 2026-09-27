@@ -1,6 +1,7 @@
 ---
 layout: home
-title: NLP1 2026
+title: Home
+ref: home
 ---
 
 Coming soon

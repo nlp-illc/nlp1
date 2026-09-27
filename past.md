@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: Past editions of NLP1
+ref: past
 permalink: /past/
 ---
 
