@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: NLP1 2026
 ref: home
 permalink: /2026/
