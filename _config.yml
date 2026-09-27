@@ -1,0 +1,12 @@
+title: NLP1
+description: ""
+
+url: https://nlp-illc.github.io # the base hostname & protocol for your site
+baseurl: /nlp1b # the subpath of your site, e.g. /blog/. Leave blank for root
+
+remote_theme: lorepirri/cayman-blog
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
