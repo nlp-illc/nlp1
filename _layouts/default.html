@@ -70,7 +70,7 @@
             {% if page.layout == 'home' and site.github.is_project_page %}
             <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
             {% for sec in page.menu %}
-                <a href="#{{ sec }}" class="btn">{{ sec }}</a>
+                <a href="#{{ sec | slugify }}" class="btn">{{ sec }}</a>
             {% endfor %}
             {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
