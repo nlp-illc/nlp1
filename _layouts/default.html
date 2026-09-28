@@ -63,6 +63,9 @@
         {% if page.layout == 'post' %}
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
+        {% if page.layout == 'default' %}
+        {% assign page-tagline = page.tagline | escape  %}
+        {% endif %}
         
         <section class="page-header">
             <h1 class="project-name">{{ page-title }}</h1>
