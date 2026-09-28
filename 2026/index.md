@@ -10,7 +10,7 @@ menu:
 
 # Syllabus
 
-Check it [here](/2026/syllabus).
+Check it [here](2026/syllabus).
 
 # Team
 
