@@ -1,3 +1,18 @@
+# Add a root page
+
+Root pages are for whatever concerns `NLP1` generally (e.g., about, blog, past editions, etc.). Most likely you don't need root pages, rather you should work with specific editions (e.g., 2026 or 2027) which are hosted under their respective folders (e.g., `./2026/` or `./2027/`); for that, see the next section.
+
+Suppose you want to add a root page such as `./about.md`, here's the necessary preamble
+```
+---
+layout: page
+title: About
+ref: about
+permalink: /about/
+---
+```
+The field `ref` is for the menu in the site's header. You will also need to change `header_page_refs` in `_config.yaml` to suit your needs. 
+
 # Add a new edition
 
 Let's suppose the new edition runs in some `YEAR`.
