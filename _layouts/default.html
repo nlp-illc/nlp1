@@ -92,6 +92,11 @@
             {% endif %}
             <!-- End: Post tagline -->
         </section>
+        <nav class="sticky-nav">
+            {% for sec in page.menu %}
+                <a href="#{{ sec | slugify }}" class="btn">{{ sec }}</a>
+            {% endfor %}
+        </nav>
         
         <section class="main-content">
             

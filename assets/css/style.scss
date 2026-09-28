@@ -1,9 +1,27 @@
-.page-header {
+@import "{{ site.theme }}";
+
+.sticky-nav {
   position: sticky;
   top: 0;
   z-index: 1000;
-}
 
-html {
-  scroll-padding-top: 120px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+
+  padding: 0.8rem 1rem;
+  background: #159957;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+
+  a {
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
