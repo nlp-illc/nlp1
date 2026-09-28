@@ -34,3 +34,8 @@ menu:
     * Exam
 
 # Labs
+
+* Weeks 1 and 2: text classification
+* Weeks 3 and 4: feature learning
+* Weeks 5 and 6: LLM-based NLP
+* Week 7: blog post
