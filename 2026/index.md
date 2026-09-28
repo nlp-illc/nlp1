@@ -10,31 +10,7 @@ menu:
 
 # Syllabus
 
-Coming soon
-
-* Week 1
-    * HC1a
-    * HC1b
-* Week 2
-    * HC2a
-    * HC2b
-* Week 3
-    * HC3a
-    * HC3b
-* Week 4
-    * HC4
-* Week 5
-    * HC5a
-    * HC5b
-* Week 6 
-    * HC6a
-    * HC6b
-* Week 7
-    * HC7a
-    * HC7b
-* Week 8
-    * Exam
-
+Check it [here](/2026/syllabus).
 
 # Team
 
