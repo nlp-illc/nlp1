@@ -1,27 +1,9 @@
-@import "{{ site.theme }}";
-
-.sticky-nav {
+.site-header {
+  position: -webkit-sticky; /* For Safari support */
   position: sticky;
   top: 0;
-  z-index: 1000;
-
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-
-  padding: 0.8rem 1rem;
-  background: #159957;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
-
-  a {
-    color: white;
-    font-size: 0.9rem;
-    font-weight: 600;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
+  z-index: 1000; /* Keeps the navbar above other content */
+  background-color: #ffffff; /* Add a background color so content doesn't bleed through */
+  width: 100%;
 }
+

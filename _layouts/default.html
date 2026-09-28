@@ -91,12 +91,12 @@
             </h2>
             {% endif %}
             <!-- End: Post tagline -->
+            <nav class="site-nav">
+                {% for sec in page.menu %}
+                    <a href="#{{ sec | slugify }}" class="btn">{{ sec }}</a>
+                {% endfor %}
+            </nav>
         </section>
-        <nav class="sticky-nav">
-            {% for sec in page.menu %}
-                <a href="#{{ sec | slugify }}" class="btn">{{ sec }}</a>
-            {% endfor %}
-        </nav>
         
         <section class="main-content">
             
