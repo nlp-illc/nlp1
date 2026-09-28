@@ -1,41 +1,45 @@
 # Add a new edition
 
-Create a folder `/year` and add `/year/index.md` with the preamble
+Let's suppose the new edition runs in some `YEAR`.
+
+Create a folder `./YEAR` and add `./YEAR/index.md` with the preamble
 ```
 ---
 layout: home
-permalink: /year/
+permalink: /YEAR/
 ---
 ```
-Then update the root's `/index.html` to redirect to the new edition.
+Then update the root's `./index.html` to redirect to the new edition.
 
-To keep things simple, use `year/index.md` for everything you need. To ease navigation, you can have a neat navigation bar within the site's banner, simply add something like the following to the preamble:
+To keep things simple, use `./YEAR/index.md` for everything you need. To ease navigation, you can have a neat navigation bar within the site's banner, simply add something like the following to the preamble:
 ```
 menu:
 - Syllabus
 - Team
 ```
-where `Syllabus` and `Team` are Markdown section headers within `year/index.md`.
+where `Syllabus` and `Team` are Markdown section headers within `./YEAR/index.md`.
 Of course, if you need to have additional pages, you can have them, but follow the instructions in the subsection below.
 
-Last, update `past.md` with a link to the older edition. Something of the kind:
+Last, update `./past.md` with a link to the older edition. If YEAR is 2027, then perhaps you add something of the kind:
 ```markdown
-Previous editions: [2026](/2026)
+Previous editions: [2026]({{ '/2026/' | relative_url }})
 ```
 
 
 ## Other pages within the new edition
 
-For other md files in the new edition's folder, such as `/year/syllabus.md`, use the preamble
+For other md files in the new edition's folder, such as `./YEAR/syllabus.md`, use the preamble
 ```
 ---
 layout: default
 title: Syllabus
-permalink: /2026/syllabus/
+permalink: /YEAR/syllabus/
+tagline: YEAR
 ---
 ```
+The `tagline` will remind anyone navigating the site that they are in the right edition (without them having to check their browser's address bar). 
 
-Note that when linking to this, for example from `index/year.md`, paths are relative eg `[program](./syllabus)`.
+Note that when linking to this, for example from `./YEAR/index.md`, paths are relative eg `[detailed program](./syllabus)`.
 
 # Credit
 
