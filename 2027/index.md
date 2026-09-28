@@ -9,7 +9,7 @@ menu:
 
 # Syllabus
 
-Check it [here](./syllabus) or [here]({{ '/syllabus' | relative_url }})
+Check it [here](./syllabus)
 
 # Team
 

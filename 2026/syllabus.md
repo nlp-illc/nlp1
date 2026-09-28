@@ -2,6 +2,7 @@
 layout: default
 title: Syllabus
 permalink: /2026/syllabus/
+tagline: 2026
 ---
 
 * Week 1 - How language works
