@@ -21,6 +21,7 @@ Create a folder `./YEAR` and add `./YEAR/index.md` with the preamble
 ```
 ---
 layout: home
+title: NLP1 YEAR
 permalink: /YEAR/
 ---
 ```
