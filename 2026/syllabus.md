@@ -3,7 +3,12 @@ layout: default
 title: Syllabus
 permalink: /2026/syllabus/
 tagline: 2026
+menu:
+- Lectures
+- Labs
 ---
+
+# Lectures
 
 * Week 1 - How language works
     * HC1a: course structure; what's NLP?; what's language?
@@ -28,3 +33,4 @@ tagline: 2026
 * Week 8
     * Exam
 
+# Labs
