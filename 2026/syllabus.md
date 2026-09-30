@@ -5,7 +5,7 @@ permalink: /2026/syllabus/
 tagline: 2026
 menu:
 - Lectures
-- Labs
+- Practicals
 ---
 
 # Lectures
@@ -23,15 +23,14 @@ menu:
 | 8 | Endterm week | - | - |
 
 
-# Labs
+# Practicals
 
 
-| Topic | Tutorial | Mini-project | Oral Assessment |
-| --- | --- | --- | --- | 
-| Text classification | week 1 | week 2 | week 3 |
-| Feature learning | week 3 | week 4 | week 5 |
-| LLM-based NLP | week 5 | week 6 | week 7 |
+| Practical | Topic | Tutorial | Mini-project | Oral Assessment |
+| --- | --- | --- | --- | --- | 
+| 1 | Text classification | week 1 | week 2 | week 3 |
+| 2 | Feature learning | week 3 | week 4 | week 5 |
+| 3 | LLM-based NLP | week 5 | week 6 | week 7 |
 
-# Blog post
+Connected to the practicals, there's also a blog post: TBA.
 
-TBA
