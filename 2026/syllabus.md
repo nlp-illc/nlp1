@@ -10,32 +10,28 @@ menu:
 
 # Lectures
 
-* Week 1 - How language works
-    * HC1a: course structure; what's NLP?; what's language?
-    * HC1b: mental grammar; mental dictionary;
-* Week 2 - The building blocks of NLU and NLG
-    * HC2a: text classification (generalised-linear and non-linear models);
-    * HC2b: language modelling (Markov and autoregressive models);
-* Week 3: Meaning
-    * HC3a: word meaning;
-    * HC3b: compositionality;
-* Week 4: Discourse
-    * HC4: document representations; coreference;
-* Week 5: The building blocks of modern NLP
-    * HC5a: sequence modelling;
-    * HC5b: transfer learning;
-* Week 6: Large language models 
-    * HC6a: training, adaptation and applications of LLMs;
-    * HC6b: LLM post-training, safety and alignment;
-* Week 7: Looking inside and looking ahead
-    * HC7a: interpretability;
-    * HC7b: broader impact;
-* Week 8
-    * Exam
+
+| Week | Topic | HCa | HCb |
+| --- | --- | --- | --- | 
+| 1 | How Language Works | Course structure \| What's NLP? \| What's language? |  Mental grammar \| Mental dictionary |
+| 2 | The Building Blocks of NLU and NLG | Text classification (generalised-linear and non-linear models) | Text generation (Markov and autoregressive models) |
+| 3 | Meaning | Distributional semantics | Compositionality | 
+| 4 | Discourse |  Document representations \| Coreference | - |
+| 5 | The Building Blocks of Modern NLP | Sequence modelling | Transfer learning | 
+| 6 | Large Language Models | Training, adaptation and applications of LLMs |  LLM post-training, safety and alignment | 
+| 7 | Looking Inside and Looking Ahead | Interpretability | Broader impact |
+| 8 | Endterm week | - | - |
+
 
 # Labs
 
-* Weeks 1 and 2: text classification
-* Weeks 3 and 4: feature learning
-* Weeks 5 and 6: LLM-based NLP
-* Week 7: blog post
+
+| Topic | Tutorial | Mini-project | Oral Assessment |
+| --- | --- | --- | --- | 
+| Text classification | week 1 | week 2 | week 3 |
+| Feature learning | week 3 | week 4 | week 5 |
+| LLM-based NLP | week 5 | week 6 | week 7 |
+
+# Blog post
+
+TBA
