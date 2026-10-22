@@ -6,6 +6,7 @@ permalink: /2026/
 menu:
 - Team
 - Schedule
+- Tools
 - Assessment
 - Attendance
 - Practicals
@@ -27,6 +28,21 @@ menu:
 * Exam: week 8;
 * Schedule with time and rooms: see it on Datanose;
 * Detailed [syllabus](./syllabus);
+
+# Tools
+
+These are the tools we use in this course and what we/you use it for:
+* [Canvas](https://canvas.uva.nl/courses/59944)
+    * register your group (for practicals)
+    * submit deliverables for assignments
+    * view grades
+    * announcements
+    * assessment and policies
+    * staff contact info
+* Ed: for discussion
+* ANS: for exam feedback and discussion
+
+**Textbook:** we often refer to chapters of [Jurafsky and Martin (online edition)](https://web.stanford.edu/~jurafsky/slp3/). Don't buy a hardcopy of it (because only older editions exist in print and those editions differ considerably from the online one).
 
 # Assessment
 
