@@ -32,5 +32,9 @@ menu:
 | 2 | Feature learning | week 3 | week 4 | week 5 |
 | 3 | LLM-based NLP | week 5 | week 6 | week 7 |
 
-Connected to the practicals, there's also a blog post: TBA.
+In addition to, and connected to, the above, there's a _Blog post_:
+* Purpose: scientific dissemination
+* TA support: two live sessions in week 7
+* Due by: end of week 7
+
 
