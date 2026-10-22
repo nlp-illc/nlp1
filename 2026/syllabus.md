@@ -32,6 +32,8 @@ menu:
 | 2 | Feature learning | week 3 | week 4 | week 5 |
 | 3 | LLM-based NLP | week 5 | week 6 | week 7 |
 
+Tutorials are focused on learning (we provide notebooks with plenty of instructions and exercise) and TAs offer live support. Mini-projects are focused on hands-on research (we provide resources and TAs offer live support). 
+
 In addition to, and connected to, the above, there's a _Blog post_:
 * Purpose: scientific dissemination
 * TA support: two live sessions in week 7
