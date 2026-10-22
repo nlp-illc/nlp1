@@ -54,6 +54,8 @@ Attendance (lectures and tutorials) is encouraged but not mandatory.
 
 # Practicals
 
+You can fork our repository [nlp1-student](https://github.com/nlp-illc/nlp1-student) or download the tagged versions below:
+
 * Practical 1: [zip](https://github.com/nlp-illc/nlp1-student/archive/refs/tags/tutorial1-2026.zip)
 * Practical 2: TBA
 * Practical 3: TBA
