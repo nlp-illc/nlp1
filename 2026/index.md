@@ -41,11 +41,13 @@ We have no requirements on individual grade components. A student passes the cou
 
 **Blog post:** this is a short write-up in the form of a _blog post_ where each team summarises their research throughout the 3 practicals. The post will be accessible from this website's blog, and it will be remain available for posterity. 
 
+Official and detailed policies can be found in Canvas.
+
 # Deadlines
 There are 4 deadlines in the course, which are always at the end of the day (23:59):
-* Friday November 6: Project 1 Short Slide Deck.
-* Friday November 20: Project 2 Short Slide Deck.
-* Friday December 4: Project 3 Short Slide Deck.
+* Friday November 6: Project 1 Deliverable
+* Friday November 20: Project 2 Deliverable
+* Friday December 4: Project 3 Deliverable
 * Friday December 11: Blog post.
 
 # Attendance
