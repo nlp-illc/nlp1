@@ -41,6 +41,7 @@ These are the tools we use in this course and what we/you use it for:
     * staff contact info
 * Ed: for discussion
 * ANS: for exam feedback and discussion
+* [Panopto](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=53092bb4-bece-4951-a74d-b49400ac532d) for class recordings (requires log-in)
 
 **Textbook:** we often refer to chapters of [Jurafsky and Martin (online edition)](https://web.stanford.edu/~jurafsky/slp3/). Don't buy a hardcopy of it (because only older editions exist in print and those editions differ considerably from the online one).
 
