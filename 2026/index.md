@@ -60,6 +60,8 @@ You can fork our repository [nlp1-student](https://github.com/nlp-illc/nlp1-stud
 * Practical 2: TBA
 * Practical 3: TBA
 
+In each case, the deliverable is a pdf (slides for oral assessment) and the URL to a public repository with your code. **Submissions are only accepted via Canvas!** 
+
 # Datasets
 
 See the [complete list](./datasets);
