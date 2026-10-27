@@ -13,7 +13,7 @@ menu:
 
 | Week | Topic | HCa | HCb |
 | --- | --- | --- | --- | 
-| 1 | How Language Works | Course structure \| What's NLP? \| What's language? |  Mental grammar \| Mental dictionary |
+| 1 | How Language Works | [Course structure \| What's NLP?](./slides/HC1a-Introduction.pdf) \| [Language](./slides/HC1a-Language.pdf) |  Mental grammar \| Mental dictionary |
 | 2 | The Building Blocks of NLU and NLG | Text classification (generalised-linear and non-linear models) | Text generation (Markov and autoregressive models) |
 | 3 | Meaning | Distributional semantics | Compositionality | 
 | 4 | Discourse |  Document representations \| Coreference | - |
