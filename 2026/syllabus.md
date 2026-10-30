@@ -18,7 +18,7 @@ menu:
         * After HC1b: [Chapter 2 (Words and Tokens)](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
         * Before HC2a: Tutorial 1 (Digital Text and Text Classification)
 * Week 2: The Building Blocks of NLU and NLG 
-    * HC2a: Text classification (generalised-linear and non-linear models)
+    * HC2a: [Text classification (generalised-linear and non-linear models)](./slides/HC2a-Text-Classification.pdf)
     * HC2b: Text generation (Markov and autoregressive models)
     * Self-study
         * Before or after HC2a: [Chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf) (skip 4.11; treat 4.15 as optional)
