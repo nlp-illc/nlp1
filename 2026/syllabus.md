@@ -19,10 +19,11 @@ menu:
         * Before HC2a: Tutorial 1 (Digital Text and Text Classification)
 * Week 2: The Building Blocks of NLU and NLG 
     * HC2a: [Text classification (generalised-linear and non-linear models)](./slides/HC2a-Text-Classification.pdf)
-    * HC2b: Text generation (Markov and autoregressive models)
+    * HC2b: [Text generation (Markov and autoregressive models)](./slides/HC2a-Text-Generation.pdf)
     * Self-study
         * Before or after HC2a: [Chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf) (skip 4.11; treat 4.15 as optional)
         * Before or after HC2b: [Chapter 14 (sections 14.1 and 14.2 only)](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
+        * After HC2b: [Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) (sections 3.2, 3.3 and 3.4; 3.1 is optional but useful as NGram LMs are a nice way to build intuition about more complex LMs; you can safely skip everything from and including section 3.6)
 * Week 3: Meaning
     * HC3a: Distributional semantics
     * HC3b: Compositionality
