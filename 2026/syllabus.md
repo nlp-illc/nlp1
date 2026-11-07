@@ -25,8 +25,10 @@ menu:
         * Before or after HC2b: [Chapter 14 (sections 14.1 and 14.2 only)](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
         * After HC2b: [Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) (sections 3.2, 3.3 and 3.4; 3.1 is optional but useful as NGram LMs are a nice way to build intuition about more complex LMs; you can safely skip everything from and including section 3.6)
 * Week 3: Meaning
-    * HC3a: Distributional semantics
+    * HC3a: [Distributional semantics](./slides/HC3a-Distributional-Semantics.pdf)
     * HC3b: Compositionality
+    * Self-study:
+        * Before or after HC3a: [Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) (sections 5.2-5.5 and 5.7)
 * Week 4: Discourse
     * HC4a: Document representations and coreference
 * Week 5: The Building Blocks of Modern NLP
