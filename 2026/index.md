@@ -76,7 +76,7 @@ Attendance (lectures and tutorials) is encouraged but not mandatory.
 You can fork our repository [nlp1-student](https://github.com/nlp-illc/nlp1-student) or download the tagged versions below:
 
 * Practical 1: [zip](https://github.com/nlp-illc/nlp1-student/archive/refs/tags/tutorial1-2026.zip)
-* Practical 2: TBA
+* Practical 2: [zip](https://github.com/nlp-illc/nlp1-student/archive/refs/tags/tutorial2-2026.zip)
 * Practical 3: TBA
 
 In each case, the deliverable is a pdf (slides for oral assessment) and the URL to a public repository with your code. **Submissions are only accepted via Canvas!** 
