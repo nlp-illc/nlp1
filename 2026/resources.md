@@ -7,7 +7,7 @@ tagline: 2026
 
 # Datasets
 
-See the [complete list](./datasets);
+See the [complete list]({% link datasets.md %})
 
 # Word embedding models
 
