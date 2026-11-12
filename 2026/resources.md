@@ -5,10 +5,6 @@ permalink: /2026/resources/
 tagline: 2026
 ---
 
-# Datasets
-
-See the [complete list]({% link datasets.md %})
-
 # Word embedding models
 
 [Gensim](https://github.com/piskvorky/gensim#documentation) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. It supports and offers various embedding models. 
