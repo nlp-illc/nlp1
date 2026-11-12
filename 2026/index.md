@@ -11,6 +11,7 @@ menu:
 - Attendance
 - Practicals
 - Datasets
+- Resources
 - Blog post
 ---
 
@@ -83,7 +84,11 @@ In each case, the deliverable is a pdf (slides for oral assessment) and the URL 
 
 # Datasets
 
-See the [complete list](./datasets);
+See the [complete list](./datasets).
+
+# Resources
+
+See the [complete list](./resources).
 
 # Blog post
 
