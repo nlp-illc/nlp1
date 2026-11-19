@@ -92,4 +92,5 @@ See the [complete list](./resources).
 
 # Blog post
 
-* Guidelines and rubrics: TBA
+* [Instructions](https://nlp-illc.github.io/nlp1/2026/11/18/group0.html)
+* [Rubrics](./slides/blogpost_rubric.pdf)
