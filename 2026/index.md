@@ -78,7 +78,7 @@ You can fork our repository [nlp1-student](https://github.com/nlp-illc/nlp1-stud
 
 * Practical 1: [zip](https://github.com/nlp-illc/nlp1-student/archive/refs/tags/tutorial1-2026.zip)
 * Practical 2: [zip](https://github.com/nlp-illc/nlp1-student/archive/refs/tags/tutorial2-2026.zip)
-* Practical 3: [slides](./slides/T3.pdf) and zip (TBA)
+* Practical 3: [slides](./slides/T3.pdf) and [zip](https://github.com/nlp-illc/nlp1-student/archive/refs/tags/tutorial3-2026.zip)
 
 In each case, the deliverable is a pdf (slides for oral assessment) and the URL to a public repository with your code. **Submissions are only accepted via Canvas!** 
 
