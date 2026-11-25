@@ -36,9 +36,10 @@ menu:
         * Before or after HC4a: [Chapter 25](https://web.stanford.edu/~jurafsky/slp3/25.pdf) (section 25.1) and [Chapter 24](https://web.stanford.edu/~jurafsky/slp3/25.pdf) (sections 24.1-24.3, 24.5-24.6)
 * Week 5: The Building Blocks of Modern NLP
     * HC5a: [Sequence modelling](./slides/HC5a-Sequence-modelling.pdf)
-    * HC5b: Transfer learning
+    * HC5b: [Transformers and Transfer learning](./slides/HCb-Transformers-Transfer-Learning.pdf)
     * Self-study:
         * Before or after HC5a: [Chapter 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf) (sections 13.2, 13.3, 13.4, 13.6; this chapter is about MT but the approaches sketched, including for evalution, are common to many such 'sequence-to-sequence' problems; in fact, much of this technology was driven by MT research)
+        * Before or after HC5b: For the Transformer architecture in general, [Chapter 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf). For masked language models, [Chapter 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf) (sections 9.1 to 9.3). For instruction tuning and reinforcement learning from human feedback, [Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf) (sections 8.1 to 8.3).
 * Week 6: Large Language Models
     * HC6a: Training, adaptation and applications of LLMs
     * HC6b: LLM post-training, safety and alignment
